@@ -15,6 +15,10 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+!以下白鹿山人新增网址
+||pixlr.com
+
+
 !---------403/451/503/520 & URL Redirects---------
 ||blogjav.net
 ||zoominfo.com
