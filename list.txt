@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !以下白鹿山人新增网址
+.pixlr.com
 ||pixlr.com
 
 
